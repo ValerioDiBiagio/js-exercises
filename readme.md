@@ -1,0 +1,1 @@
+Ripasso dei fondamentali di Javascript attraverso esercizi mirati.
