@@ -1,0 +1,1 @@
+// chiedere all'utente di inserire un numero e poi calcolare la somma di tutti i numeri da 1 a N

@@ -1,0 +1,1 @@
+// Chiedere all'utente un numero e stampare la sua tabellina (fino a 10) nella console.
