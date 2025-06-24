@@ -1,6 +1,6 @@
 // Chiedere all'utente un numero e stampare la sua tabellina (fino a 10) nella console.
 
-const n = parseInt(prompt('inserisci un numero'))
+// const n = parseInt(prompt('inserisci un numero'))
 
 let mult = 0;
 
