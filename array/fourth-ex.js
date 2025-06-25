@@ -3,12 +3,12 @@
 // Usa un metodo degli array (o un ciclo for) per verificare se la città inserita dall'utente è presente nell'array.
 // Stampa un messaggio appropriato: "La città [nome città] è presente nell'array." oppure "La città [nome città] non è presente nell'array.".
 
-const citta = ["Roma", "Milano", "Napoli", "Firenze", "Bologna"];
+// const citta = ["Roma", "Milano", "Napoli", "Firenze", "Bologna"];
 
-const nameCity = prompt("inserisci il nome di una città");
+// const nameCity = prompt("inserisci il nome di una città");
 
-if (citta.includes(nameCity)) {
-    console.log(`La città "${nameCity}" è presente nell'array.`);
-} else {
-    console.log(`La città "${nameCity}" non è presente nell'array.`);
-}
+// if (citta.includes(nameCity)) {
+//     console.log(`La città "${nameCity}" è presente nell'array.`);
+// } else {
+//     console.log(`La città "${nameCity}" non è presente nell'array.`);
+// }

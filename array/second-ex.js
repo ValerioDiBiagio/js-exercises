@@ -4,16 +4,16 @@
 // Rimuovi l'ultimo elemento dall'array. Stampa l'array.
 // Rimuovi il primo elemento dall'array. Stampa l'array.
 
-const fruttiDue = ["mela", "anguria", "arancia", "banana", "fragola"];
+// const fruttiDue = ["mela", "anguria", "arancia", "banana", "fragola"];
 
-fruttiDue.push("pera");
-console.log(fruttiDue);
+// fruttiDue.push("pera");
+// console.log(fruttiDue);
 
-fruttiDue.unshift("lampone")
-console.log(fruttiDue)
+// fruttiDue.unshift("lampone")
+// console.log(fruttiDue)
 
-fruttiDue.pop()
-console.log(fruttiDue)
+// fruttiDue.pop()
+// console.log(fruttiDue)
 
-fruttiDue.shift()
-console.log(fruttiDue)
+// fruttiDue.shift()
+// console.log(fruttiDue)
