@@ -4,4 +4,4 @@
 // const frutta = ["mela", "banana", "ciliegia", "kiwi"];
 
 // console.log(frutta[1]);
-// console.log(frutta[3]);
+// console.log(frutta[frutta.length -1]);
