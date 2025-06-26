@@ -5,11 +5,11 @@
 // Stampa in console il titolo del libro.
 // Stampa in console l'autore del libro usando la notazione con le parentesi quadre.
 
-const libro = {
-    titolo: "La casa della morte",
-    autore: "R. L. Stine",
-    annoPubblicazione: "1997"
-}
+// const libro = {
+//     titolo: "La casa della morte",
+//     autore: "R. L. Stine",
+//     annoPubblicazione: "1997"
+// }
 
-console.log(libro.titolo);
-console.log(libro["autore"]);
+// console.log(libro.titolo);
+// console.log(libro["autore"]);
