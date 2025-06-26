@@ -6,18 +6,18 @@
 // Calcolare la media di tutti i punteggi.
 // Stampa la media finale alla fine.
 
-const punteggi = [85, 92, 78, 65, 95, 72];
+// const punteggi = [85, 92, 78, 65, 95, 72];
 
-let sum = 0;
+// let sum = 0;
 
-punteggi.forEach(punteggio => {
-    if (punteggio > 80) {
-        console.log(`il punteggio è ${punteggio} quindi è alto!`)
-    } else {
-        console.log(`il punteggio è ${punteggio} quindi è basso!`)
-    }
+// punteggi.forEach(punteggio => {
+//     if (punteggio > 80) {
+//         console.log(`il punteggio è ${punteggio} quindi è alto!`)
+//     } else {
+//         console.log(`il punteggio è ${punteggio} quindi è basso!`)
+//     }
 
-    sum += punteggio
-})
+//     sum += punteggio
+// })
 
-console.log(sum / punteggi.length)
+// console.log(sum / punteggi.length)
