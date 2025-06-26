@@ -7,12 +7,12 @@
 // Stampa l'oggetto prodotto in console per verificare che la proprietà codice non ci sia più.
 
 
-const prodotto = {
-    nome: "Laptop",
-    prezzo: 1200,
-    disponibile: true,
-    codice: "LP-XYZ-789"
-}
+// const prodotto = {
+//     nome: "Laptop",
+//     prezzo: 1200,
+//     disponibile: true,
+//     codice: "LP-XYZ-789"
+// }
 
-delete prodotto.codice
-console.log(prodotto)
+// delete prodotto.codice
+// console.log(prodotto)
