@@ -7,12 +7,12 @@
 //  Quando viene chiamato, questo metodo dovrebbe stampare in console: "Meow! Il mio nome è [nome del gatto]."
 // Chiama il metodo miagola dell'oggetto gatto.
 
-const gatto = {
-    nome: "Luna",
-    eta: 10,
-    miagola: function () {
-        console.log(`Meow! Il mio nome è ${gatto.nome}`);
-    }
-}
+// const gatto = {
+//     nome: "Luna",
+//     eta: 10,
+//     miagola: function () {
+//         console.log(`Meow! Il mio nome è ${gatto.nome}`);
+//     }
+// }
 
-gatto.miagola();
+// gatto.miagola();
