@@ -5,15 +5,15 @@
 // Stampa in console il nome e cognome dello studente.
 // Stampa in console il voto di matematica dello studente.
 
-const studente = {
-    nome: "Luca",
-    cognome: "Rossi",
-    voti: {
-        matematica: 8,
-        storia: 7,
-        inglese: 9
-    }
-}
+// const studente = {
+//     nome: "Luca",
+//     cognome: "Rossi",
+//     voti: {
+//         matematica: 8,
+//         storia: 7,
+//         inglese: 9
+//     }
+// }
 
-console.log(`${studente.nome} ${studente.cognome}`);
-console.log(`Voto matematica: ${studente.voti.matematica}`);
+// console.log(`${studente.nome} ${studente.cognome}`);
+// console.log(`Voto matematica: ${studente.voti.matematica}`);
