@@ -4,8 +4,8 @@
 
 // Chiama la funzione salutaPersonalizzato con il tuo nome o un nome a tua scelta.
 
-function salutaPersonalizzato(nome) {
-    console.log(`Ciao, ${nome} Come stai oggi?`)
-}
+// function salutaPersonalizzato(nome) {
+//     console.log(`Ciao, ${nome} Come stai oggi?`)
+// }
 
-salutaPersonalizzato("Luca")
+// salutaPersonalizzato("Luca")
