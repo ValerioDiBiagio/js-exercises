@@ -4,8 +4,8 @@
 
 // Chiama la funzione calcolaAreaRettangolo con valori per base e altezza (es. 7 e 4) e stampa l'area calcolata in console.
 
-function calcolaAreaRettangolo(base, altezza) {
-    return base * altezza
-}
+// function calcolaAreaRettangolo(base, altezza) {
+//     return base * altezza
+// }
 
-console.log(calcolaAreaRettangolo(5, 7));
+// console.log(calcolaAreaRettangolo(5, 7));
