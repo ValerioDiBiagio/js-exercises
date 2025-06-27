@@ -4,8 +4,8 @@
 
 // Chiama la funzione salutaUtente.
 
-function salutaUtente() {
-    console.log("Ciao! Benvenuto/a nel mondo delle funzioni.")
-}
+// function salutaUtente() {
+//     console.log("Ciao! Benvenuto/a nel mondo delle funzioni.")
+// }
 
-salutaUtente()
+// salutaUtente()
