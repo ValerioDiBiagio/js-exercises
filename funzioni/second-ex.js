@@ -5,8 +5,8 @@
 // Chiama la funzione sommaNumeri con due numeri a tua scelta (es. 5 e 10) e stampa il risultato in console.
 
 
-function sommaNumeri(num1, num2) {
-    return num1 + num2
-}
+// function sommaNumeri(num1, num2) {
+//     return num1 + num2
+// }
 
-console.log(sommaNumeri(5, 5))
+// console.log(sommaNumeri(5, 5))
