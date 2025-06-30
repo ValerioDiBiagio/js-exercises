@@ -5,8 +5,8 @@
 
 // La funzione deve restituire il valore della media ponderata.
 
-function calcolaMediaPonderata(voto1, peso1, voto2, peso2) {
-    return ((voto1 * peso1) + (voto2 * peso2)) / (peso1 + peso2)
-}
+// function calcolaMediaPonderata(voto1, peso1, voto2, peso2) {
+//     return ((voto1 * peso1) + (voto2 * peso2)) / (peso1 + peso2)
+// }
 
-console.log(calcolaMediaPonderata(7, 0.4, 9, 0.6));
+// console.log(calcolaMediaPonderata(7, 0.4, 9, 0.6));
