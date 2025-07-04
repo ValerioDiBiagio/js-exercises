@@ -2,10 +2,10 @@
 // Somma tutti quei numeri.
 // Alla fine, stampa la somma totale.
 
-let sum = 0;
+// let sum = 0;
 
-for (let i = 0; i <= 20; i += 2) {
-    sum += i
-}
+// for (let i = 0; i <= 20; i += 2) {
+//     sum += i
+// }
 
-console.log(sum)
+// console.log(sum)
