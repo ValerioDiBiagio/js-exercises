@@ -1,11 +1,11 @@
 // Modifica un oggetto persona
 // Hai un oggetto persona con le seguenti proprietà:
 
-// nome 
+// nome
 
-// età 
+// età
 
-// occupazione 
+// occupazione
 
 // Cosa devi fare:
 
@@ -17,16 +17,16 @@
 
 // Stampa l’oggetto aggiornato.
 
-const persona = {
-    nome: "Luca",
-    eta: 23,
-    occupazione: "Studente"
-}
+// const persona = {
+//     nome: "Luca",
+//     eta: 23,
+//     occupazione: "Studente"
+// }
 
-console.log(`Mi chiamo ${persona.nome} e ho ${persona.eta} anni`);
+// console.log(`Mi chiamo ${persona.nome} e ho ${persona.eta} anni`);
 
-persona.occupazione = "Sviluppatore";
+// persona.occupazione = "Sviluppatore";
 
-persona.hobby = "Lettura";
+// persona.hobby = "Lettura";
 
-console.log(persona);
+// console.log(persona);
